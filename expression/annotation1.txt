@@ -1,0 +1,11 @@
+1: Happily Surprised
+2: Happily Disgusted
+3: Sadly Fearful
+4: Sadly Angry
+5: Sadly Surprised
+6: Sadly Disgusted
+7: Fearfully Angry
+8: Fearfully Surprised
+9: Angrily Surprised
+10: Angrily Disgusted
+11: Disgustedly Surprised
